@@ -1,0 +1,2 @@
+U:\PythonCPP\Debug\PythonCPP.exe
+U:\PythonCPP\Debug\PythonCPP.pdb
